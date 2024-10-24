@@ -1,6 +1,6 @@
-Grilli - Amazing & Delicious Food
+Grilli - Amazing & Delicious Food amazed and worked on from the top to the bottom....
 
-This is a Restaurant html template made by codewithsadee
+This is a Restaurant html template made by Lucky Baraka inspired by Sadee
 
 
 
@@ -35,7 +35,7 @@ Contact
 
 Visit Us
 
-Restaurant St, Delicious City,
+Restaurant RD, Delicious City,
 London 9578, UK
 
 Open: 9.30 am - 2.30pm
@@ -115,7 +115,7 @@ Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem I
 
 Book Through Call
 
-+80 (400) 123 4567
+0790761708
 
 Read More
 
